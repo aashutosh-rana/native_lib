@@ -1,0 +1,3 @@
+hi i am aashutosh kumar
+I am from assets
+It just a hack to read file from asset in native lib
